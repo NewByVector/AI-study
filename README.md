@@ -1,2 +1,2 @@
 # AI-study
-learning ai!
+learning ai!!
